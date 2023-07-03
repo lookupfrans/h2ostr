@@ -76,9 +76,9 @@ object {
 
     #app {
         #id {
-        width: %;
+        width: 100%;
         margin: 0;
-        background-color: #000;
+        background-color: black;
     }
     
     img {
