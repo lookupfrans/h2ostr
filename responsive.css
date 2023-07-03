@@ -73,6 +73,13 @@ object {
         margin: 0;
         background-color: #000;
     }
+
+    #app {
+        #id {
+        width: %;
+        margin: 0;
+        background-color: #000;
+    }
     
     img {
         width: 100%;
