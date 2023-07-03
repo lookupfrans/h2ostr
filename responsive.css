@@ -34,9 +34,13 @@ object {
     body {
         background-color: #000;
     }
+
+    body {
+        margin: 0;
+    }
     
-    .container {
-        width: 100%;
+    #id {
+        width: %;
         margin: 0;
     }
     
@@ -59,5 +63,4 @@ object {
         width: 100%;
         margin: 0;
     }
-
 }
