@@ -3,6 +3,22 @@ body {
     background-color: #000;
 }
 
+input[type=text] {
+    background-color: #fff;
+}
+
+input[type=reset] {
+    color: #fff;
+}
+
+.container {
+    background-color: #000;
+}
+
+input[type=submit] {
+    color: #fff;
+}
+
 .container {
     width: 100%;
     margin: 0;
@@ -35,13 +51,27 @@ object {
         background-color: #000;
     }
 
-    body {
-        margin: 0;
+    
+    input[type=text] {
+        background-color: #fff;
+    }
+    
+    input[type=reset] {
+        color: #fff;
+    }
+    
+    input[type=submit] {
+        color: #fff;
+    }
+
+    .container {
+        background-color: #000;
     }
     
     #id {
         width: %;
         margin: 0;
+        background-color: #000;
     }
     
     img {
